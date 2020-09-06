@@ -16,6 +16,7 @@
         <div class="sidebar">
             <ul>
                 <li><a href="#">Bekerja dengan Git</a></li>
+                <li><a href="#">Command_Git</a></li>
                 <li><a href="#">Git Branch & Merge</a></li>
                 <li><a href="#">Git Merge Conflict</a></li>
                 <li><a href="#">Git Remote</a></li>

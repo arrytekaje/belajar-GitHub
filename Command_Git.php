@@ -17,3 +17,7 @@ git log --all --decorate --oneline --graph
 alias graph="git log --all --decorate --oneline --graph"
 
 alias sts="git status"
+
+git branch
+
+
