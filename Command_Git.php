@@ -23,3 +23,7 @@ alias sts="git status"
 
 git branch <nama branch>
 
+git clone https://github.com/arrytekaje/belajar-GitHub.git
+
+git remote origin
+
