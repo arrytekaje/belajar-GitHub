@@ -12,15 +12,10 @@
 
 <body>
     <div class="container clearfix">
-        <h1>Perpustakaan Lima5atu</h1>
+        <h1>Belajar Git_PHP_Native</h1>
         <div class="sidebar">
             <ul>
                 <li><a href="#">Data Kategori</a></li>
-                <li><a href="#">Data Buku</a></li>
-                <li><a href="#">Data Anggota</a></li>
-                <li><a href="#">Peminjaman</a></li>
-                <li><a href="#">Pengembalian</a></li>
-                <li><a href="#">Logout</a></li>
             </ul>
         </div>
         <div class="content">
