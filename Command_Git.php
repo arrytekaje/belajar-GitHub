@@ -3,6 +3,9 @@ git init
 git status
  
 git commit
+
+git commit -a
+git commit -am "pesan yg ingin Anda tulis"
  
 git commit -m "Pesan yg ingin Anda tulis"
  
@@ -18,6 +21,5 @@ alias graph="git log --all --decorate --oneline --graph"
 
 alias sts="git status"
 
-git branch
-
+git branch <nama branch>
 
