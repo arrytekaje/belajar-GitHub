@@ -25,6 +25,8 @@ git branch
 git branch <nama branch>
 git checkout <nama_branch>
 
+git merge <nama brach>
+
 git clone https://github.com/arrytekaje/belajar-GitHub.git
 
 git remote
