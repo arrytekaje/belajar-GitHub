@@ -24,6 +24,7 @@ alias sts="git status"
 git branch
 git branch <nama branch>
 git checkout <nama_branch>
+git branch -d <nama branch>
 
 git merge <nama brach>
 
